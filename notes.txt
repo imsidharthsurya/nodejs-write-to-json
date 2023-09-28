@@ -1,0 +1,6 @@
+Sidharth|22|Male|Hyderabad
+Sanket|24|Male|Noida
+xyz|23|Female|asam
+dhruv|23|Female|Gajiabad
+Manjunath|23|Male|Mumbai
+Rohan|25|Male|Supaul
